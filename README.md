@@ -21,3 +21,4 @@ python -m pipelines.pipeline_basic
 python -m pipelines.dataset_basic
 ```
 
+Then the rest of the scripts...
